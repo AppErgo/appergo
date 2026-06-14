@@ -1,19 +1,30 @@
 # AppErgo
 
-AppErgo is the official GitHub profile for [appergo.com](https://www.appergo.com/).
+AppErgo creates free online tools and Windows applications.
 
-AppErgo provides free online tools, Windows apps and simple utilities built step by step.
+The project focuses on clear interfaces, useful features, accessible documentation, and gradual improvement through testing and user feedback.
 
-## Links
+## Explore
 
 - [Official Website](https://www.appergo.com/)
-- [Online Tools - Index](https://www.appergo.com/en/tools/index.html)
-- [All Online Tools - Direct access](https://www.appergo.com/en/online-tools/all/index.html)
+- [Online Tools](https://www.appergo.com/en/tools/index.html)
+- [All Tools — Direct Access](https://www.appergo.com/en/online-tools/all/index.html)
 - [Projects](https://www.appergo.com/en/projects/index.html)
 - [Contact](https://www.appergo.com/en/contact.php)
 
-## About
+## About the project
 
-AppErgo is a personal software project focused on simple, useful and documented tools.
+AppErgo is an independent software project built step by step.
 
-The project includes browser-based tools, Windows utilities, test versions, changelogs and feedback-oriented pages to support gradual improvement.
+### Currently available
+
+- Browser-based tools
+- Experimental and test versions
+
+### Planned
+
+- Windows utilities
+- Changelogs and release information
+- Feedback pages to help guide future improvements
+
+The goal is simple: to create useful, understandable, and well-documented software without unnecessary complexity.
